@@ -2,6 +2,9 @@
 
 ## Table of contents
 
+* [Setup](#Setup)
+* [Usage](#Usage)
+
 ---
 
 ## Setup
@@ -14,5 +17,6 @@ pip install -r requirements.txt
 ## Usage
 
 ```
-pytest <Test script name>
+cd <test directory>
+pytest -v <Test script name>
 ```
