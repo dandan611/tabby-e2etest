@@ -16,4 +16,4 @@ pyflakes==1.6.0           # via flake8
 pytest==3.9.2
 selenium==3.14.1
 six==1.11.0               # via more-itertools, pytest
-urllib3==1.24             # via selenium
+urllib3==1.24.2           # via selenium
